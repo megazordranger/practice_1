@@ -3,5 +3,11 @@
 	"tabWidth": 1,
 	"useTabs": true,
 	"semi": true,
-	"singleQuote": true
+	"singleQuote": true,
+	"prettier/prettier": [
+		"error",
+		{
+			"endOfLine": "auto"
+		}
+	]
 }
